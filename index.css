@@ -1,0 +1,19 @@
+#img{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    align-content: center;
+
+}
+
+#img>div{
+    text-align: right;
+    margin: 5px;
+    padding-top: 250px;
+    margin-left: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: blueviolet;
+
+
+}
